@@ -61,5 +61,9 @@ Model Building:
 
 * Build Python Code
 
-* Footer
+* Run The Application
+
+* Routing To The Html Page
+
+* Creating Our Flask Application And Loading Our Model
 
