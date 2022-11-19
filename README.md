@@ -27,7 +27,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
 Data Collection:
 
- Collect the dataset or Create the dataset
+* Collect the dataset or Create the dataset
 Data Preprocessing:
 
  Import the ImageDataGenerator library
